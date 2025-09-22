@@ -6,12 +6,8 @@ The Gym Management System is a full-stack web application built using React.js f
 
 Features:
 
-User registration and login
-
-Manage members, trainers, and schedules
-
-Frontend built with React.js
-
-Backend REST APIs using Spring Boot
-
-Responsive and interactive UI
+-User registration and login
+-Manage members, trainers, and schedules
+-Frontend built with React.js
+-Backend REST APIs using Spring Boot
+-Responsive and interactive UI
