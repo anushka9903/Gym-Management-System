@@ -1,0 +1,5 @@
+.dietContainer{
+    background-image: url("https://images.pexels.com/photos/1153369/pexels-photo-1153369.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover; /* Cover the entire container */
+    background-position: bottom;
+}

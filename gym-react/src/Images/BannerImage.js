@@ -1,0 +1,1 @@
+export const BannerImage="https://gym.fortius.themerex.net/wp-content/uploads/2022/06/62_3-1-copyright.jpg"
