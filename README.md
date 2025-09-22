@@ -1,0 +1,4 @@
+Gym Management System
+Description
+
+The Gym Management System is a full-stack web application built using React.js for the frontend and Spring Boot (STS) for the backend. The system helps gyms efficiently manage members, trainers, schedules, and other operations. It provides user authentication, CRUD operations for members and trainers, and a responsive interface for a seamless user experience.
